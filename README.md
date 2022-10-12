@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @seandou
+- 👀 I’m interested in Python, Data & DevOps
+- 🌱 I’m currently learning Rust
